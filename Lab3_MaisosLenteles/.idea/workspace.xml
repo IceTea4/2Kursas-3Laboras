@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="600a0afc-57ce-41ba-b7b6-9573d99cf7e5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="1j0vCQu7gKZdWYHYFkSI8xGMGcc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Benchmark.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoExecution.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapOaTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapOaTest.testContainsValue_EmptyMap.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapOaTest.testContainsValue_NullValue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapOaTest.testContainsValue_ValueDoesNotExist.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapOaTest.testContainsValue_ValueExists.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapOaTest.testRemove.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapOaTest.testRemove_AfterRehash.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.HashMapOaTest.testRemove_ElementIsNull.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapOaTest.testRemove_FirstElement.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapOaTest.testRemove_FirstElementInChain.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapOaTest.testRemove_LastElement.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapOaTest.testRemove_LastElementInChain.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapOaTest.testRemove_NoSuchKey.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapOaTest.testRemove_RemovesAll.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapOaTest.testRemove_WithDeletedEntries.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapOaTest.testReplace_ExistingKeyWithValue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapOaTest.testReplace_MultipleElements.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.testContainsValue_EmptyMap.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.testContainsValue_NullValue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.testContainsValue_ValueDoesNotExist.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.testContainsValue_ValueExists.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.testGetNumberOfCollisionsEmptyMap.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.testGetNumberOfCollisionsMultiple_ElementsNoCollisions.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.testGetNumberOfCollisionsSingleElement.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.testGetNumberOfCollisionsWithCollisions.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.HashMapTest.testGetNumberOfCollisions_EmptyMap.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.testGetNumberOfCollisions_SingleElement.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.testRemove.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.testRemove_ElementIsNull.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.testRemove_NoSuchKey.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.testRemove_RemovesAll.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.testReplaceMultipleElementsInChain.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.testReplaceNonExistingKey.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.testReplace_ExistingKeyWithValue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.testReplace_MultipleElementsInChain.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.testReplace_NonExistingKey.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.testReplace_NullKey.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.testReplace_NullNewValue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.testReplace_NullOldValue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashMapTest.testReplace_WithIncorrectOldValue.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/IceTea/Documents/DuomenuStr/LD3/Lab3_MaisosLenteles&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BG\Downloads\Lab3_MaisosLenteles2021_1010\Lab3_MaisosLenteles_Draft\src\main\java\edu\ktu\ds\lab3" />
+      <recent name="C:\Users\BG\Downloads\Lab3_MaisosLenteles_2021\Lab3_MaisosLenteles\src\main\java\edu\ktu\ds\lab3\gui\Swing" />
+      <recent name="C:\Users\BG\Downloads\Lab3_MaisosLenteles_2021\Lab3_MaisosLenteles\src\main\java\edu\ktu\ds\lab3\demo\fx" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Mano Diskas\DS_2022\2022_DS\Lab3_MaisosLenteles\diagrams" />
+      <recent name="C:\Users\BG\Downloads\Lab3_MaisosLenteles1025\Lab3_MaisosLenteles\diagrams" />
+      <recent name="C:\Users\BG\Downloads\Lab3_MaisosLenteles_Draft1018\Lab3_MaisosLenteles_Draft1018\diagrams" />
+      <recent name="C:\Users\BG\Downloads\Lab3_MaisosLenteles2021_1010\Lab3_MaisosLenteles\diagrams" />
+      <recent name="C:\Users\BG\Downloads\Lab3_MaisosLenteles_2021\Lab3_MaisosLenteles\diagrams" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.ktu.ds.lab3.gui" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.ktu.ds.lab3.utils" />
+      <recent name="edu.ktu.ds.lab3.demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.HashMapTest.testGetNumberOfCollisionsWithCollisions">
+    <configuration name="HashMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ktu.ds.lab3.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ktu.ds.lab3.demo" />
+      <option name="MAIN_CLASS_NAME" value="edu.ktu.ds.lab3.demo.HashMapTest" />
+      <option name="METHOD_NAME" value="testGetNumberOfCollisionsWithCollisions" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapTest.testGetNumberOfCollisionsMultiple_ElementsNoCollisions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ktu.ds.lab3.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ktu.ds.lab3.demo" />
+      <option name="MAIN_CLASS_NAME" value="edu.ktu.ds.lab3.demo.HashMapTest" />
+      <option name="METHOD_NAME" value="testGetNumberOfCollisionsMultiple_ElementsNoCollisions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapTest.testGetNumberOfCollisionsWithCollisions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ktu.ds.lab3.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ktu.ds.lab3.demo" />
+      <option name="MAIN_CLASS_NAME" value="edu.ktu.ds.lab3.demo.HashMapTest" />
+      <option name="METHOD_NAME" value="testGetNumberOfCollisionsWithCollisions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapTest.testGetNumberOfCollisions_EmptyMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ktu.ds.lab3.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ktu.ds.lab3.demo" />
+      <option name="MAIN_CLASS_NAME" value="edu.ktu.ds.lab3.demo.HashMapTest" />
+      <option name="METHOD_NAME" value="testGetNumberOfCollisions_EmptyMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapTest.testGetNumberOfCollisions_SingleElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ktu.ds.lab3.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ktu.ds.lab3.demo" />
+      <option name="MAIN_CLASS_NAME" value="edu.ktu.ds.lab3.demo.HashMapTest" />
+      <option name="METHOD_NAME" value="testGetNumberOfCollisions_SingleElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.HashMapTest" />
+      <item itemvalue="JUnit.HashMapTest.testGetNumberOfCollisionsMultiple_ElementsNoCollisions" />
+      <item itemvalue="JUnit.HashMapTest.testGetNumberOfCollisionsWithCollisions" />
+      <item itemvalue="JUnit.HashMapTest.testGetNumberOfCollisions_EmptyMap" />
+      <item itemvalue="JUnit.HashMapTest.testGetNumberOfCollisions_SingleElement" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HashMapTest.testGetNumberOfCollisionsWithCollisions" />
+        <item itemvalue="JUnit.HashMapTest.testGetNumberOfCollisionsMultiple_ElementsNoCollisions" />
+        <item itemvalue="JUnit.HashMapTest.testGetNumberOfCollisions_SingleElement" />
+        <item itemvalue="JUnit.HashMapTest.testGetNumberOfCollisions_EmptyMap" />
+        <item itemvalue="JUnit.HashMapTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="600a0afc-57ce-41ba-b7b6-9573d99cf7e5" name="Default Changelist" comment="" />
+      <created>1602953696498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602953696498</updated>
+      <workItem from="1731324110828" duration="64000" />
+      <workItem from="1731324207993" duration="35854000" />
+      <workItem from="1736709350431" duration="2120000" />
+      <workItem from="1736754678222" duration="636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/ktu/ds/lab3/gui/MainWindow.java</url>
+          <line>456</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
